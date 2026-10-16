@@ -2,15 +2,17 @@
 
 ## Atualizado em 16/10/2026
 
-- editor de sua preferencia (820e0fc) — gustavodemo901090-cmd, 2026-10-15
-- chore(changelog): atualiza CHANGELOG.md [skip ci] (1b28eb6) — github-actions[bot], 2026-10-16
-- sobre esta pagina, teste (2420ce5) — gustavodemo901090-cmd, 2026-10-15
-- chore(changelog): atualiza CHANGELOG.md [skip ci] (78182b1) — github-actions[bot], 2026-10-16
-- Adicionada pagina (c67955e) — ffabricioo779, 2026-10-15
-- chore(changelog): atualiza CHANGELOG.md [skip ci] (9456402) — github-actions[bot], 2026-10-16
-- Add initial content to README.md (38c0380) — ffabricioo779, 2026-10-15
-- chore(changelog): atualiza CHANGELOG.md [skip ci] (91d73f8) — github-actions[bot], 2026-10-16
-- Revise changelog workflow to trigger on push (9e5dbf8) — ffabricioo779, 2026-10-15
-- Modify workflow to generate changelog on release (a2b3d0d) — ffabricioo779, 2026-10-15
-- Add changelog workflow for CI process (00ba981) — ffabricioo779, 2026-10-15
-- add changelog (8343524) — ffabricioo779, 2026-10-15
+- Changelog passa a ser commitado com a identidade do autor (acd069c) — Kenjihidehira, 2026-10-15
+- chore(changelog): atualiza CHANGELOG.md [skip ci] (dd66ead) — Kenjihidehira, 2026-10-16
+- editor de sua preferencia (c92026c) — Kenjihidehira, 2026-10-15
+- chore(changelog): atualiza CHANGELOG.md [skip ci] (a0442ba) — Kenjihidehira, 2026-10-16
+- sobre esta pagina, teste (5fa39ef) — Kenjihidehira, 2026-10-15
+- chore(changelog): atualiza CHANGELOG.md [skip ci] (04ca7a3) — Kenjihidehira, 2026-10-16
+- Adicionada pagina (7da43af) — Kenjihidehira, 2026-10-15
+- chore(changelog): atualiza CHANGELOG.md [skip ci] (2e1c402) — Kenjihidehira, 2026-10-16
+- Add initial content to README.md (7e77e61) — Kenjihidehira, 2026-10-15
+- chore(changelog): atualiza CHANGELOG.md [skip ci] (76317ec) — Kenjihidehira, 2026-10-16
+- Revise changelog workflow to trigger on push (f71b00c) — Kenjihidehira, 2026-10-15
+- Modify workflow to generate changelog on release (b1547b0) — Kenjihidehira, 2026-10-15
+- Add changelog workflow for CI process (1a9d5d2) — Kenjihidehira, 2026-10-15
+- add changelog (bb976df) — Kenjihidehira, 2026-10-15
